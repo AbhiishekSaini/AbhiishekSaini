@@ -3,7 +3,7 @@ Hi 👋, I'm Abhishek Saini<br>A passionate full stack developer from India
 
 
 ## 🌐 Socials:
-[![Instagram]()](https://www.instagram.com/its__abhiishek?=MTdwNDQxOXp1amZsbQ%3D%3D&utm_source=qr) [![LinkedIn]()](hthref="https://www.leetcode.com/tarunpareta841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tarunpareta841" height="30" width="40" /></a>
+[![Instagram]()](https://www.instagram.com/its__abhiishek?=MTdwNDQxOXp1amZsbQ%3D%3D&utm_source=qr) [![LinkedIn]()](hthref="https://www.leetcode.comsrc="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tarunpareta841" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tarun200vmbp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tarun200vmbp" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
