@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi 👋, I'm Abhishek Saini <br>A passionate Web developer from India
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8749f2&size=50&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+ABHISHEK+SAINI;I'm+21+years+old;I+am+from+India,+Herat;)](https://git.io/typing-svg)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its__abhiishek?igsh=MTdwNDQxOXp1amZsbQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-saini-10231a277/) <a href="https://leetcode.com/u/abhisheksaini99_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisheksaini99_/" height="30" width="40" /></a>
