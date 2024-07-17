@@ -1,5 +1,27 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8749f2&size=50&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+ABHISHEK+SAINI;I'm+21+years+old;I+am+from+India,+Rajasthan;)](https://git.io/typing-svg)
+<h2 align="center">Hi, I'm Ridham Singhal 👋</h2>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer" /></a>
+</p>
+
+<p align="center">
+<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif" />
+</p>
+<p>
+Self-learned and self-motivated Web Developer with medium level of experience working on multiple projects. Passionate, hardworking and like to learn something new technology. Promotes best practices in web design and offering diverse customer project portfolios.
+</p>
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<br>
+  <a align='center' href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ridhamrj&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</a>
+  
 
 # 💫 About Me:
 Hi 👋, I'm Abhishek Saini <br>A passionate Web developer from India
