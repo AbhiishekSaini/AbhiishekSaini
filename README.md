@@ -8,17 +8,17 @@
 <img align="middle" alt="GIF" src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif" />
 </p>
 
-<p align="center">
- 
-
-
+### 💻 Tech :
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,javascript,bootstrap,react,nodejs" />
+  </a>
 </p>
-
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-<br>
-  <a align='center' href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ridhamrj&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,django,gcp,docker,git,github,linux,postman,xd" />
+  </a>
+</p>
   
 
 # 💫 About Me:
