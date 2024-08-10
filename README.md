@@ -8,6 +8,15 @@
 <img align="middle" alt="GIF" src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif" />
 </p>
 
+
+  
+
+# 💫 About Me:
+Hi 👋, I'm Abhishek Saini <br>A passionate Web developer from India
+
+<br>🛠️ My Tech Stack:<br>- HTML, CSS, JavaScript<br>- Front-end frameworks libraries: React, Angular, <br>- Back-end languages: Node.js, Python, , PHP<br>- Databases: MySQL, MongoDB, PostgreSQL, etc.<br>- Version control: Git, GitHub<br><br><br>📫
+
+
 ### 💻 Tech :
 <p align="left">
   <a href="https://skillicons.dev">
@@ -18,28 +27,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=fastapi,django,gcp,docker,git,github,linux,postman,xd" />
   </a>
-</p>
-  
-
-# 💫 About Me:
-Hi 👋, I'm Abhishek Saini <br>A passionate Web developer from India
-
-<br>🛠️ My Tech Stack:<br>- HTML, CSS, JavaScript<br>- Front-end frameworks libraries: React, Angular, <br>- Back-end languages: Node.js, Python, , PHP<br>- Databases: MySQL, MongoDB, PostgreSQL, etc.<br>- Version control: Git, GitHub<br><br><br>📫
-
-
-### 💻 Tech Stack:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,javascript,bootstrap,react,nodejs" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,django,gcp,docker,git,github,linux,postman,xd" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
 ## 🌐 Socials:
