@@ -27,6 +27,20 @@ Hi 👋, I'm Abhishek Saini <br>A passionate Web developer from India
 <br>🛠️ My Tech Stack:<br>- HTML, CSS, JavaScript<br>- Front-end frameworks libraries: React, Angular, <br>- Back-end languages: Node.js, Python, , PHP<br>- Databases: MySQL, MongoDB, PostgreSQL, etc.<br>- Version control: Git, GitHub<br><br><br>📫
 
 
+### 💻 Tech Stack:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,javascript,bootstrap,react,nodejs" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,django,gcp,docker,git,github,linux,postman,xd" />
+  </a>
+</p>
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its__abhiishek?igsh=MTdwNDQxOXp1amZsbQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-saini-10231a277/) <a href="https://leetcode.com/u/abhisheksaini99_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisheksaini99_/" height="30" width="40" /></a>
