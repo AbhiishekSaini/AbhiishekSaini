@@ -18,6 +18,8 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
   <a align='center' href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ridhamrj&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
+
+
 **Talking about Personal Stuffs:**
 <br>
 <ul>
@@ -30,6 +32,27 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
   <li>- ⚡ Fun fact: I waste most of my time playing games</li>
 </ul>
 <br>
+
+#### A little more about me
+```javascript
+const Abhishek = {
+  pronouns: "He" | "Him",
+  age: 21 ,
+  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
+  askMeAbout: ["web dev", "frontend dev", "python" ],
+  technologies: {
+      frontend: {
+          js: ["React JS", "Next JS" , "Typescript" ],
+          css: ["Tailwind CSS", "SCSS/SASS"]
+      },
+      codeEditor: {
+          competitiveProgramming: ["VS Code"],
+          frontEndDev: ["VS Code"]
+      }
+  }
+}
+```
+
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its__abhiishek?igsh=MTdwNDQxOXp1amZsbQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-saini-10231a277/) <a href="https://leetcode.com/u/abhisheksaini99_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisheksaini99_/" height="30" width="40" /></a>
