@@ -70,8 +70,8 @@ const Abhishek = {
   </a>
 </p>
 
-<div align="center">
- <![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<div align="start">
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekSaini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bijayrauniyar0&theme=dark)](https://git.io/streak-stats)
