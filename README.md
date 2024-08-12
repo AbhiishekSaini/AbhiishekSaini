@@ -1,4 +1,4 @@
-<h2 align="center">Hi,There 👋</h2>
+<h2 align="center">Hi,There My Name is Abhishek Saini 👋</h2>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'M+from+Kota+Rajasthan" /></a>
 </p>
@@ -84,9 +84,7 @@ const Abhishek = {
 
 
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
- - ![Contribution grid snake animation](https://raw.githubusercontent.com/ridhamrj/ridhamrj/output/github-contribution-grid-snake.svg)
-
-+ ![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 
 ###
