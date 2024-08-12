@@ -20,9 +20,13 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
 </a>
   ### 🙋 About Me
   - 👩‍🎓 Pursuing my B.Tech journey at **Noida Institute of Engineering and Technology**.
+  
   - 🔭 I’m looking to contribute to **Open Source**
+  - 
   - 🌱 I’m currently exploring **WEB DEVELOPMENT**
+  - 
   - 👩‍💻 Know me more <a href="" style="text-decoration: none;">Portfolio</a>
+  
   - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=abhisheksaini43950@gmail.com" style="text-decoration: none;">Email</a>
   <br>
   
