@@ -18,17 +18,17 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
   <a align='center' href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ridhamrj&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
-  ### 🙋 About Me
-  - 👩‍🎓 Pursuing my B.Tech journey at **Noida Institute of Engineering and Technology**.
-  
-  - 🔭 I’m looking to contribute to **Open Source**
-  - 
-  - 🌱 I’m currently exploring **WEB DEVELOPMENT**
-  - 
-  - 👩‍💻 Know me more <a href="" style="text-decoration: none;">Portfolio</a>
-  
-  - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=abhisheksaini43950@gmail.com" style="text-decoration: none;">Email</a>
-  <br>
+**Talking about Personal Stuffs:**
+<ul>
+  <li>- 🔭 I’m currently working on `Something Intresting`.</li>
+  <li>- 🌱 I’m currently learning NextJS & Typescript</li>
+  <li>- 👯 I’m looking to collaborate for `Web Projects`</li>
+  <li>- 🤔 I’m looking for help with `Competitive Programming`</li>
+  <li>- 💬 Ask me about anything, Except Maths :sweat_smile:</li>
+  <li>- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:</li>
+  <li>- ⚡ Fun fact: I waste most of my time playing games</li>
+</ul>
+<br>
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its__abhiishek?igsh=MTdwNDQxOXp1amZsbQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-saini-10231a277/) <a href="https://leetcode.com/u/abhisheksaini99_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisheksaini99_/" height="30" width="40" /></a>
