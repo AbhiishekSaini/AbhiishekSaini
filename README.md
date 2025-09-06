@@ -23,8 +23,8 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
 **Talking about Personal Stuffs:**
 <br>
 <ul>
-  <li>- 🔭 I’m currently working on `Something Intresting`.</li>
-  <li>- 🌱 I’m currently learning NextJS & Typescript</li>
+  <li>- 🔭 I’m currently working on InfoStrom Pvt. Ltd..</li>
+  <li>- 🌱 I’m currently learning ERP & Typescript</li>
   <li>- 👯 I’m looking to collaborate for `Web Projects`</li>
   <li>- 🤔 I’m looking for help with `Competitive Programming`</li>
   <li>- 💬 Ask me about anything, Except Maths :sweat_smile:</li>
